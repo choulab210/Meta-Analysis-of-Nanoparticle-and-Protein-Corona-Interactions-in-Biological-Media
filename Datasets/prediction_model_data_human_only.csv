@@ -1,0 +1,582 @@
+﻿Type,Subtype,Mod_Charge,Shape,Size_Group,ZP_Group,ZP_Charge,In_Time,Shaking,Species,APOE,APOB,CO3,CLUS
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,>150,+10~+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,>150,+10~+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,>150,+10~+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,>150,+10~+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,>150,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,30~60,Y,Human,Present,Absent,Present,Absent
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Absent,Present,Absent
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Niosome,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Metal Oxide,Neutral,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Absent,Present,Present
+Inorganic,Metal Oxide,Neutral,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Absent,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,50~100,-10~+10,Neutral,30~60,Y,Human,Present,Absent,Absent,Present
+Organic,Polystyrene,Positive,Sphere,50~100,+10~+50,Positive,30~60,Y,Human,Present,Absent,Absent,Present
+Organic,Polystyrene,Positive,Sphere,50~100,+10~+50,Positive,30~60,Y,Human,Present,Absent,Absent,Present
+Organic,Polystyrene,Negative,Sphere,50~100,-10~+10,Neutral,30~60,Y,Human,Present,Absent,Absent,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,>60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,>+50,Positive,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,>+50,Positive,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,>+50,Positive,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,>+50,Positive,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,>+50,Positive,>60,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,<-50,Negative,>60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,>150,>+50,Positive,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,>150,>+50,Positive,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,>150,>+50,Positive,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,>150,>+50,Positive,<30,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,>150,>+50,Positive,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,>150,>+50,Positive,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,No Modification,Sphere,>150,>+50,Positive,>60,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,Neutral,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,Neutral,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Absent
+Organic,Lipid,Neutral,Sphere,100~150,-50~-10,Negative,<30,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Absent
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Absent,Present,Absent
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,<30,N,Human,Present,Present,Present,Present
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Metal,Neutral,Sphere,<50,>+50,Positive,>60,Y,Human,Present,Absent,Present,Present
+Inorganic,Metal,Neutral,Sphere,50~100,>+50,Positive,>60,Y,Human,Present,Absent,Present,Present
+Inorganic,Metal,Positive,Sphere,<50,<-50,Negative,>60,Y,Human,Present,Absent,Present,Present
+Inorganic,Metal,Positive,Sphere,50~100,-50~-10,Negative,>60,Y,Human,Present,Absent,Present,Present
+Inorganic,Metal,Neutral,Sphere,<50,-50~-10,Negative,>60,Y,Human,Present,Absent,Present,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-50~-10,Negative,30~60,Y,Human,Present,Absent,Present,Present
+Organic,Latex,Negative,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Present
+Organic,Latex,Negative,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,DNA,No Modification,Sphere,50~100,-50~-10,Negative,>60,Y,Human,Present,Present,Present,Present
+Organic,DNA,No Modification,Sphere,50~100,-50~-10,Negative,>60,Y,Human,Present,Present,Present,Present
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Metal Oxide,No Modification,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Metal Oxide,No Modification,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Metal Oxide,Negative,Sphere,50~100,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Absent
+Inorganic,Metal Oxide,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Absent
+Inorganic,Metal Oxide,Negative,Sphere,50~100,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Metal Oxide,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Neutral,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Neutral,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,No Modification,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Negative,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Neutral,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Neutral,Sphere,<50,-50~-10,Negative,30~60,Y,Human,Present,Present,Present,Present
+Inorganic,Silica,Positive,Sphere,<50,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Positive,Sphere,100~150,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,100~150,<-50,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,100~150,<-50,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,100~150,<-50,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,50~100,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,50~100,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,50~100,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,50~100,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,50~100,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,50~100,+10~+50,Positive,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,50~100,+10~+50,Positive,30~60,Y,Human,Present,Present,Present,Present
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,No Modification,Sphere,100~150,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,100~150,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,100~150,-10~+10,Neutral,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Metal,No Modification,Sphere,<50,-10~+10,Neutral,30~60,N,Human,Absent,Absent,Present,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Absent,Absent,Present,Present
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Absent,Present,Present
+Inorganic,Metal Oxide,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Present
+Inorganic,Metal,No Modification,Sphere,50~100,-10~+10,Neutral,30~60,N,Human,Absent,Absent,Present,Present
+Inorganic,Metal,Negative,Sphere,>150,-50~-10,Negative,30~60,N,Human,Absent,Absent,Present,Present
+Inorganic,Metal Oxide,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Absent,Absent,Present,Present
+Inorganic,Metal Oxide,Negative,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Present
+Organic,Polystyrene,Positive,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Present,Absent,Present,Present
+Organic,Polystyrene,Neutral,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,100~150,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,100~150,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,Polystyrene,Neutral,Sphere,100~150,-10~+10,Neutral,30~60,Y,Human,Present,Present,Present,Present
+Organic,DNA,No Modification,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Present,Absent,Present,Present
+Organic,DNA,No Modification,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Present,Absent,Present,Present
+Organic,DNA,Negative,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Absent,Present,Present
+Organic,DNA,Negative,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Absent,Present,Present
+Organic,Polystyrene,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Organic,Polystyrene,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Absent
+Organic,Polystyrene,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Absent
+Organic,Polystyrene,Negative,Sphere,100~150,<-50,Negative,30~60,N,Human,Absent,Present,Absent,Present
+Organic,Polystyrene,Negative,Sphere,100~150,<-50,Negative,30~60,N,Human,Present,Absent,Present,Present
+Inorganic,Metal Oxide,No Modification,Sheet,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sheet,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Present,Present
+Inorganic,Metal Oxide,No Modification,Sheet,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Present
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Present,Present
+Inorganic,Metal Oxide,No Modification,Sheet,<50,-50~-10,Negative,30~60,N,Human,Absent,Absent,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sheet,<50,-50~-10,Negative,30~60,N,Human,Absent,Absent,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sheet,<50,-50~-10,Negative,30~60,N,Human,Absent,Absent,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sheet,<50,-50~-10,Negative,30~60,N,Human,Absent,Absent,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Absent,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Absent
+Inorganic,Metal Oxide,No Modification,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Present,Absent
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,50~100,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,50~100,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,50~100,>+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Organic,Lipid,No Modification,Sphere,50~100,+10~+50,Positive,30~60,N,Human,Present,Present,Present,Present
+Carbon-Based,Carbon,Negative,Nanotube,50~100,<-50,Negative,30~60,N,Human,Absent,Absent,Present,Absent
+Inorganic,Metal,Neutral,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,30~60,Y,Human,Present,Present,Absent,Absent
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,30~60,Y,Human,Present,Present,Absent,Absent
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,30~60,Y,Human,Present,Present,Absent,Absent
+Inorganic,Metal,Neutral,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,>+50,Positive,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,+10~+50,Positive,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,50~100,>+50,Positive,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,50~100,>+50,Positive,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,50~100,>+50,Positive,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,50~100,>+50,Positive,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,100~150,>+50,Positive,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,50~100,>+50,Positive,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-10~+10,Neutral,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-10~+10,Neutral,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-10~+10,Neutral,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Negative,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,Neutral,Sphere,100~150,-10~+10,Neutral,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,Neutral,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,Neutral,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Present,Absent,Absent
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,+10~+50,Positive,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,No Modification,Sphere,>150,+10~+50,Positive,30~60,N,Human,Absent,Present,Absent,Absent
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,100~150,+10~+50,Positive,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,No Modification,Sphere,>150,>+50,Positive,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,Neutral,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,Neutral,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Absent,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,Neutral,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Absent
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Absent
+Organic,Lipid,No Modification,Sphere,100~150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Absent,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-50~-10,Negative,30~60,N,Human,Present,Absent,Absent,Present
+Organic,Lipid,No Modification,Sphere,>150,-10~+10,Neutral,30~60,N,Human,Present,Absent,Absent,Absent
+Inorganic,Metal Oxide,No Modification,Sphere,>150,-50~-10,Negative,30~60,Y,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Positive,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Positive,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Absent,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Positive,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,>150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal,Negative,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,50~100,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal,Neutral,Sphere,100~150,-10~+10,Neutral,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Absent,Absent,Absent
+Inorganic,Metal,Neutral,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Positive,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Neutral,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Absent,Absent,Present
+Inorganic,Metal,Negative,Sphere,<50,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Positive,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Present,Absent,Absent,Present
+Organic,Polystyrene,Positive,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Absent,Present,Absent,Present
+Organic,Polystyrene,Positive,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Present,Absent,Absent,Present
+Organic,Polystyrene,Positive,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Absent,Present,Absent,Present
+Organic,Polystyrene,Positive,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Present,Absent,Absent,Present
+Organic,Polystyrene,Positive,Sphere,100~150,+10~+50,Positive,30~60,Y,Human,Absent,Present,Absent,Present
+Organic,Lipid-DNA,No Modification,Sphere,>150,+10~+50,Positive,>60,N,Human,Absent,Present,Absent,Present
+Organic,Lipid-DNA,No Modification,Sphere,>150,+10~+50,Positive,>60,N,Human,Absent,Present,Absent,Present
+Organic,Lipid-DNA,No Modification,Sphere,>150,-10~+10,Neutral,>60,N,Human,Absent,Present,Absent,Present
+Organic,Lipid-DNA,No Modification,Sphere,>150,-10~+10,Neutral,>60,N,Human,Absent,Present,Absent,Present
+Inorganic,Silica,No Modification,Sphere,>150,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Inorganic,Silica,No Modification,Sphere,100~150,-50~-10,Negative,>60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Positive,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Positive,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,No Modification,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Negative,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Positive,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Organic,Polystyrene,Positive,Sphere,50~100,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,-50~-10,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Present,Present,Absent,Present
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Absent,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Present,Present,Absent,Absent
+Inorganic,Metal Oxide,Neutral,Sphere,<50,<-50,Negative,30~60,N,Human,Absent,Present,Absent,Absent
