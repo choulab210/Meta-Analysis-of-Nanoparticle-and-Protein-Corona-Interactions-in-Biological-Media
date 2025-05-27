@@ -19,18 +19,18 @@ For the prediction of Apolipoprotein E (APOE), Apolipoprotein B-100 (APOB), Comp
 # %% ============================================================================
 # Install Libraries as Necessary
 # ============================================================================
-
+'''
 pip install scikit-learn lightgbm scikit-optimize xgboost
 pip install xgboost
-
+'''
 # %% ============================================================================
 # Import Required Libraries
 # ============================================================================
 # Standard Libraries for Data Handling 
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
+import warnings
 
 # SKLearn - Model Selection & Evaluation
 # Used for model development, cross validation, and evaluating model performance
@@ -40,7 +40,6 @@ from sklearn.svm import SVC
 from sklearn.metrics import (
     accuracy_score, 
     classification_report,
-    confusion_matrix,
     f1_score,
     precision_score,
     recall_score,
@@ -68,7 +67,7 @@ from skopt.space import Real, Integer, Categorical
 # ============================================================================
 
 # Load Data
-PC=pd.read_csv('content/prediction_model_data.csv')
+PC=pd.read_csv('C:/Users/Alexa Canchola.DESKTOP-M9JK1U7/Desktop/Chou Lab/Projects/4_NIH-Nanomedicine/1_Meta-Analysis/Code/prediction_model_data_human_only.csv')
 PC.head()
 
 # Removing rows with any missing values
@@ -78,7 +77,7 @@ PC.dropna(inplace=True)
 encoding_mappings = {
     'Size_Group': {"<50": 0, "50~100": 1, "100~150": 2,">150":3},
     'In_Time': {"<30": 0, "30~60": 1, ">60": 2},
-    'ZP_Group': {"<-50": 0, "-50~-10": 1,"-10~0":2,"0~10":3,"10~50":4,">50":5},
+    'ZP_Group': {"<-50": 0, "-50~-10": 1,"-10~+10":2,"+10~+50":3,">+50":4},
     'APOE': {"Present": 0, "Absent": 1},
     'APOB': {"Present": 0, "Absent": 1},
     'CO3': {"Present": 0, "Absent": 1},
@@ -127,9 +126,9 @@ param_space_LGBM = {
     'clf__feature_fraction': (0.7, 1.0),  # Fraction of features per tree
     'clf__bagging_fraction': (0.7, 1.0),  # Row sampling ratio
     'clf__bagging_freq': (1, 10),  # Frequency of bagging
-    'clf__lambda_l2': (0.0, 1.0, 'uniform'),  # L2 regularization term
-    'clf__class_weight': ['balanced']  # Automatic class weighing for imbalanced samples
-}
+    'clf__class_weight': ['balanced'],  # Automatic class weighing for imbalanced samples
+    'clf__verbosity': [-1],  # suppress LightGBM messages
+    }
 
 # Random Forest Parameter Space
 param_space_RF = {
@@ -155,7 +154,6 @@ param_space_XGBoost = {
     'clf__min_child_weight': (1, 50),  # Min data in child node
     'clf__gamma': (0, 1),  # Minimum loss reduction to split a node
     'clf__scale_pos_weight': (1, 10),  # Positive class weight scaling (for imbalanced data)
-    'clf__lambda_l2': (0.0, 1.0, 'uniform'),  # L2 regularization term
     'clf__subsample': (0.5, 1.0),  # Fraction of samples for each tree
     'clf__colsample_bytree': (0.5, 1.0),  # Fraction of features per tree
     'clf__colsample_bylevel': (0.5, 1.0)  # Fraction of features per level
