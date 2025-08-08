@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # %% ============================================================================
-#
 # Extraction and Calculation of Protein Properties from Uniprot Database
 # Author: Alexa Canchola
 # Advisor: Wei-Chun Chou
@@ -37,8 +36,6 @@ warnings.filterwarnings("ignore")
 # Bio.SeqUtils Package
 # Used to calculate protein information from amino acid sequence
 from Bio.SeqUtils.ProtParam import ProteinAnalysis
-
-
 
 # %% ============================================================================
 #Import & Preprocess Data
@@ -133,7 +130,9 @@ def calculate_gravy(sequence):
         print(f"Error calculating GRAVY for sequence: {e}")
         return None
 
-#create dataframe for calculated properties
+# %% ============================================================================
+# Create dataframe for calculated properties
+# ============================================================================
 ProteinInfo = pd.DataFrame(proteinids)
 ProteinInfo.rename(columns={ProteinInfo.columns[0]: 'ID'}, inplace=True)
 ProteinInfo['MW'] = None
@@ -142,7 +141,7 @@ ProteinInfo['pI'] = None
 ProteinInfo['gravy'] = None
 
 # %% ============================================================================
-# Define Functions for pI and GRAVY calculation
+# Extract and Calculate Protein Data
 # ============================================================================
 
 # Loop through protein ID list to extract relevant data; if data is available, calculate specified properties
